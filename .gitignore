@@ -1,3 +1,11 @@
+# Files to ignore.
+201908-citibike-tripdata.csv
+201908-citibike-tripdata_tableau.csv
+citibike_new.csv
+Bikesharing.twbx
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
