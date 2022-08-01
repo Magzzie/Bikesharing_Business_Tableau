@@ -41,13 +41,6 @@ Citi Bike data has been released to the public. We intended to use this public d
 - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 14. Create a story and report for the final presentation.
 
-
-## Resources
-- Data Source:
-- Software: 
-- Libraries and Packages: 
-- Online Tools: 
-
 ## Resources
 Data Source: 201908-citibike-tripdata.csv.zip, NYC_CitiBike_Challenge.ipynb. 
 Software: Tableau
@@ -276,12 +269,13 @@ After you've practiced creating Tableau stories, let's create a story for our in
 
 
 
+![NYC Map - Bike Trip Counts by Dot Size.](./Images/top_trip_starting_locations.png)
 
+5 pm is the peak for bikesharing 
+![Bar Chart of Trip Counts against Hours of Days in August.](./Images/august_peak_hours_highest.png.png)
 
-
-
-
-
+Most riders use the bikes for 10 to 15 minutes per ride. 
+![The Usage Time Density.](./Images/checkout_times_for_users.png.png)
 
 
 
